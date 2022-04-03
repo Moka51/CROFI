@@ -1,8 +1,8 @@
 {
-  "short_name": "TimeSwap",
-  "name": "TimeSwap",
-  "description": "TimeSwap , because time is money",
-  "homepage_url": "https://timeswap.fi",
+  "short_name": "CROFISwap",
+  "name": "Crofi",
+  "description": "CrofiSwap",
+  "homepage_url": "https://crofi.me",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
